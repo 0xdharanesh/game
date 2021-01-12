@@ -1,6 +1,6 @@
 """
 Hey there!!! Hi
-It's just a simple game that stone paper scissor
+It's just a simple game that rock, paper, scissor
 Here you comes to redy our code, Right!!!
 Okey I made some hints for you
 """
