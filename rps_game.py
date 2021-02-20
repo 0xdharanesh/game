@@ -56,7 +56,7 @@ while True:
             print("Both are same. so game is tie!.")
         
         elif comp_choice == "p":
-            print("The computer chose paper. You lose:)")
+            print("The computer chose paper. You lose:(")
             comp_wins += 1
             
         elif comp_choice == "s":
